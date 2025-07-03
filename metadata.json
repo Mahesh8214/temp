@@ -1,0 +1,5 @@
+{
+  "name": "React Firebase Drive Clone",
+  "description": "A feature-rich clone of Google Drive built with React and Tailwind CSS, designed to be connected to a Firebase backend for authentication, file storage, and database management.",
+  "requestFramePermissions": []
+}
